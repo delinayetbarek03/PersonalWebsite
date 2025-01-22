@@ -2,7 +2,7 @@ import requests
 import yaml
 
 # Brian Schmidt's ORCID ID
-orcid_id = "https://orcid.org/0000-0001-6589-1287"
+orcid_id = "0000-0001-6589-1287"
 # ORCID API endpoint for public data
 
 # Set headers for the API request
