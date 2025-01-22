@@ -1,6 +1,6 @@
-title: "<strong>Your Name</strong>'s Resume"
+title: "Delina Yetbarek's Resume"
 description: "A simple online resume"
-url: "https://<your-username>.github.io/PersonalWebsite"
+url: "https://delinayetbarek03.github.io/PersonalWebsite"
 baseurl: "/resume"
 remote_theme: "LeNPaul/academic"
 plugins:
